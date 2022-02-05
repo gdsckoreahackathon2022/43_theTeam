@@ -1,0 +1,3 @@
+[submodule "pruitful"]
+	path = pruitful
+	url = https://github.com/gmkim20713/pruitful.git
